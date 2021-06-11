@@ -1,0 +1,12 @@
+[package]
+name = "rev_shell"
+version = "0.1.0"
+authors = ["grng3r"]
+edition = "2018"
+description = "Simple reverse shell for windows and linux"
+readme = "README.md"
+keywords = ["rust"]
+license = "GPLv3"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
